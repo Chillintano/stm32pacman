@@ -1,0 +1,11 @@
+mario configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\list.c
+mario configuration\list.o: E:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+mario configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+mario configuration\list.o: E:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+mario configuration\list.o: E:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+mario configuration\list.o: ..\Inc\FreeRTOSConfig.h
+mario configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+mario configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+mario configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+mario configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+mario configuration\list.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h

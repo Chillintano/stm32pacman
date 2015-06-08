@@ -1,0 +1,14 @@
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\event_groups.c
+mario configuration\event_groups.o: E:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+mario configuration\event_groups.o: E:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+mario configuration\event_groups.o: E:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+mario configuration\event_groups.o: ..\Inc\FreeRTOSConfig.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\timers.h
+mario configuration\event_groups.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\event_groups.h

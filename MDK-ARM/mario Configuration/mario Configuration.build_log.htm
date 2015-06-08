@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+E:\Users\Chilintano\Documents\Keil\mario\MDK-ARM\mario.uvproj
+Project File Date:  05/27/2015
+
+<h2>Output:</h2>
+Build target 'mario Configuration'
+compiling main.c...
+..\Drivers\CMSIS\Include\core_cm7.h(76): warning:  #47-D: incompatible redefinition of macro "__CORTEX_M" (declared at line 76 of "..\Drivers\CMSIS\Include\core_cm4.h")
+  #define __CORTEX_M                (0x07)                                   /*!< Cortex-M Core                    */
+..\Src\main.c(197): warning:  #1295-D: Deprecated declaration checkForTouch - give arg types
+  void checkForTouch();
+..\Src\main.c(198): warning:  #1295-D: Deprecated declaration updateMEMS - give arg types
+  void updateMEMS();
+..\Src\main.c(199): warning:  #1295-D: Deprecated declaration gameLoop - give arg types
+  void gameLoop();
+..\Src\main.c(200): warning:  #1295-D: Deprecated declaration getControl_TS - give arg types
+  void getControl_TS();
+..\Src\main.c(201): warning:  #1295-D: Deprecated declaration getTSData - give arg types
+  void getTSData();
+..\Src\main.c(82): warning:  #177-D: variable "food1_base" was declared but never referenced
+  static unsigned short food1_base[] = {
+..\Src\main.c: 7 warnings, 0 errors
+linking...
+Program Size: Code=31632 RO-data=15440 RW-data=2044 ZI-data=19996  
+"mario Configuration\mario Configuration.axf" - 0 Error(s), 7 Warning(s).
+Load "mario Configuration\\mario Configuration.axf" 
+Erase Done.
+Programming Done.
+Verify OK.

@@ -1,0 +1,12 @@
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\croutine.c
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+mario configuration\croutine.o: E:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+mario configuration\croutine.o: E:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+mario configuration\croutine.o: ..\Inc\FreeRTOSConfig.h
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+mario configuration\croutine.o: ..\Middlewares\Third_Party\FreeRTOS\Source\include\croutine.h
